@@ -17,3 +17,11 @@ A simple **Telegram bot** that assigns a **unique File ID** to each **PDF** uplo
 ```sh
 git clone https://github.com/halfwinddd/Telegram-PDF-FileID-Bot.git
 
+'''
+---
+
+### **2️⃣ Install Dependencies
+Make sure you have Python 3 installed. Then, install the required library:
+'''sh
+pip install python-telegram-bot
+'''
